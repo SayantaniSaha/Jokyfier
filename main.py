@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 19 15:47:15 2021
 
-@author: Sayantani Sayak
-"""
 import pyjokes
 import time
 from plyer import notification
